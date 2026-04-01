@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 About Me<br><br>Hey! I'm **Nameless**, a developer based in Egypt 🇪🇬<br><br>I'm currently on my frontend development journey, learning the fundamentals of the web — **HTML**, **CSS**, and **JavaScript**. I'm passionate about building things for the web and growing my skills one project at a time.<br><br>---<br><br>🌍 **Location:** Egypt<br>🌱 **Currently Learning:** HTML, CSS & JavaScript<br>🎯 **Goal:** Becoming a proficient frontend developer
 
 
