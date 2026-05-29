@@ -25,8 +25,4 @@
 
 <br>
 
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AlwaysNameless&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
+
