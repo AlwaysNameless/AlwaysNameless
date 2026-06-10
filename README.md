@@ -2,7 +2,7 @@
 
 > ⚡ Self-taught developer building clean interfaces and functional tools.
 
-* 🚀 **Current Project:** Spinlex Portfolio
+* 🚀 **Current Project:** Cosmic Launcher
 * 🦀 **Learning:** `Rust` & `Lua`
 * 💬 **Ask Me About:** Frontend design (`HTML` / `CSS` / `JS`)
 * 🤖 **Specialties:** Web development & custom Discord bot creation
