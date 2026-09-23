@@ -27,10 +27,10 @@ Full-Stack Developer building web applications, automation scripts, and custom D
 
 <p align="left">
   <a href="https://x.com/PassiveNameless">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="https://reddit.com/user/Passivenamelesss">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="32" alt="Reddit" />
+  <a href="https://reddit.com/user/PassiveNamelesss">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </p>
