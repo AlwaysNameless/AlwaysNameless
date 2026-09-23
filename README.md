@@ -1,10 +1,16 @@
-# Nameless
+# Hi, I'm Nameless 👋
 
-Frontend Developer & Bot Creator.
+Full-Stack Developer building web applications, automation scripts, and custom Discord integrations.
 
-Working on **[DepthCord](https://github.com/AlwaysNameless/DepthCord)**, a Discord bot for Deepwoken guilds.
+---
 
-### Tech Stack
+### 🚀 Current Project
+
+* **[DepthCord](https://github.com/AlwaysNameless/DepthCord)**: A Discord bot for Deepwoken guilds featuring automated utility, data management, and server integrations.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="js" /> &nbsp;
@@ -15,6 +21,8 @@ Working on **[DepthCord](https://github.com/AlwaysNameless/DepthCord)**, a Disco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />
 </p>
 
-### Socials
+---
+
+### 🌐 Connect With Me
 
 * [X](https://x.com/PassiveNameless)
