@@ -25,4 +25,12 @@ Full-Stack Developer building web applications, automation scripts, and custom D
 
 ### 🌐 Connect With Me
 
-* [X](https://x.com/PassiveNameless)
+<p align="left">
+  <a href="https://x.com/PassiveNameless">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://reddit.com/user/YOUR_REDDIT_USERNAME">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="32" alt="Reddit" />
+  </a>
+</p>
