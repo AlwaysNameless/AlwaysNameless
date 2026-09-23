@@ -30,7 +30,7 @@ Full-Stack Developer building web applications, automation scripts, and custom D
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32" alt="X" />
   </a>
   &nbsp;
-  <a href="https://reddit.com/user/YOUR_REDDIT_USERNAME">
+  <a href="https://reddit.com/user/Passivenamelesss">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="32" alt="Reddit" />
   </a>
 </p>
