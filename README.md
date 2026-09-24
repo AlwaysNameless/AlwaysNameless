@@ -1,6 +1,6 @@
-# Hi, I'm Nameless 👋
+# Sup, I'm Nameless 👋
 
-Full-Stack Developer building web applications, automation scripts, and custom Discord integrations.
+FullStack Developer building web applications, automation scripts, and custom Discord integrations.
 
 ---
 
